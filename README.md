@@ -13,4 +13,4 @@ https://www.researchgate.net/publication/337916780_Convex_Optimization_of_the_Fu
 Suggestions are welcome and highly appreciated.
 
 
-Simulations done in MATLAB using Mosek solver for optimization.
+Simulations are done in MATLAB using Mosek solver for optimization.
