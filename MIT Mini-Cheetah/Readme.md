@@ -16,4 +16,6 @@ Mini Cheetah Sim walking and jumping over V-shaped terrain:
 Mini Cheetah Sim leaping over sloped terrain with online optimization:
 [https://www.youtube.com/watch?v=JYnPOP5lCKo](https://www.youtube.com/watch?v=JYnPOP5lCKo)
 
+Physical simulator and base code of the controller taken from [https://github.com/mit-biomimetics/Cheetah-Software](https://github.com/mit-biomimetics/Cheetah-Software)
+
 Suggestions are welcome.
