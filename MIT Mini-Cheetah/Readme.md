@@ -4,6 +4,12 @@ Outline of research for achieving extreme dynamic behaviours with MIT Mini-Cheet
 
 We are generating with a convex MPC controller trajectories for the reaction forces, position and orientation of Mini-Cheetah considering the Single Rigid Body Model.
 
+Mini Cheetah Robot jumping between different terrains with fully online optimization:
+[https://www.youtube.com/watch?v=KS88YZZrmk0](https://www.youtube.com/watch?v=KS88YZZrmk0)
+
+Mini Cheetah Robot walking and jumping over sloped terrain with fully online optimization:
+[https://www.youtube.com/watch?v=gZKRE9yvzgw](https://www.youtube.com/watch?v=gZKRE9yvzgw)
+
 Mini Cheetah Robot walking over sloped terrain:
 [https://www.youtube.com/watch?v=qQWxFJxHXjA](https://www.youtube.com/watch?v=qQWxFJxHXjA)
 
