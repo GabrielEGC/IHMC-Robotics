@@ -10,6 +10,9 @@ Mini Cheetah Robot jumping between different terrains with fully online optimiza
 Mini Cheetah Robot walking and jumping over sloped terrain with fully online optimization:
 [https://www.youtube.com/watch?v=gZKRE9yvzgw](https://www.youtube.com/watch?v=gZKRE9yvzgw)
 
+Mini Cheetah Sim balancing in two legs with MPC optimization:
+[https://www.youtube.com/watch?v=JwtKmYOpx28](https://www.youtube.com/watch?v=JwtKmYOpx28)
+
 Mini Cheetah Robot walking over sloped terrain:
 [https://www.youtube.com/watch?v=qQWxFJxHXjA](https://www.youtube.com/watch?v=qQWxFJxHXjA)
 
